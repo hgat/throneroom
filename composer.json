@@ -1,0 +1,14 @@
+{
+  "require": {
+    "slim/slim": "~2.0",
+    "illuminate/database": "5.0.*"
+  },
+  "require-dev": {
+    "fzaninotto/faker": "1.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Throneroom\\": "app/Throneroom"
+    }
+  }
+}
